@@ -36,7 +36,7 @@ To use this SRGAN implementation:
 Clone the repository.
 Prepare your dataset with paired LR and HR images.
 Train your model using the notebook.
-After training, use the provided generate notebook to generate high-resolution images from new low-resolution inputs.
+After training, use the provided generate_image script to generate high-resolution images from new low-resolution inputs.
 
 # Requirements
 TensorFlow/Keras

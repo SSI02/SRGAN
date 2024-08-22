@@ -1,5 +1,3 @@
-# Super-Resolution-Generative-Adversarial-Networks-SRGAN
-
 # Super-Resolution Generative Adversarial Network (SRGAN)
 This repository contains the implementation of a Super-Resolution Generative Adversarial Network (SRGAN), a deep learning model designed to enhance the resolution of low-resolution images. The SRGAN model is capable of generating high-quality, high-resolution images from their low-resolution counterparts, making it an ideal tool for applications in image processing, computer vision, and more.
 
